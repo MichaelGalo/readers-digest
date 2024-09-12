@@ -30,13 +30,13 @@ class ReviewViewSet(viewsets.ViewSet):
     def create(self, request):
         # Create a new instance of a review and assign property
         # values from the request payload using `request.data`
-        book = request.data.get("book")
+        book = request.data.get("book_id")
         rating = request.data.get("rating")
         comment = request.data.get("comment")
 
         # Save the review FIXME-- maybe add date?
         review = Review.objects.create(
-            user=request.user, book=book, rating=rating, comment=comment
+            user=request.user, book_id=book, rating=rating, comment=comment
         )
 
         review.save()
