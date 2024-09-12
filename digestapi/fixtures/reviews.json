@@ -1,0 +1,57 @@
+[
+    {
+      "model": "digestapi.review",
+      "pk": 1,
+      "fields": {
+        "book_id": 1,
+        "user_id": 1,
+        "rating": 5,
+        "comment": "An absolute masterpiece! Couldn't put it down.",
+        "date_posted": "2023-09-15T14:30:00Z"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 2,
+      "fields": {
+        "book_id": 2,
+        "user_id": 2,
+        "rating": 4,
+        "comment": "Great read, but the ending felt a bit rushed.",
+        "date_posted": "2023-09-16T10:15:00Z"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 3,
+      "fields": {
+        "book_id": 1,
+        "user_id": 3,
+        "rating": 3,
+        "comment": "Decent book, but not as good as the author's previous work.",
+        "date_posted": "2023-09-17T18:45:00Z"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 4,
+      "fields": {
+        "book_id": 3,
+        "user_id": 1,
+        "rating": 5,
+        "comment": "A thought-provoking and engaging read. Highly recommended!",
+        "date_posted": "2023-09-18T09:00:00Z"
+      }
+    },
+    {
+      "model": "digestapi.review",
+      "pk": 5,
+      "fields": {
+        "book_id": 2,
+        "user_id": 4,
+        "rating": 2,
+        "comment": "Not my cup of tea. The plot was confusing and hard to follow.",
+        "date_posted": "2023-09-19T20:30:00Z"
+      }
+    }
+  ]
