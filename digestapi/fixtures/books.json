@@ -1,0 +1,167 @@
+[
+    {
+      "model": "digestapi.book",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn_number": "9780446310789",
+        "cover_image": "https://example.com/mockingbird.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 2,
+      "fields": {
+        "user": 1,
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn_number": "9780451524935",
+        "cover_image": "https://example.com/1984.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 3,
+      "fields": {
+        "user": 2,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn_number": "9780141439518",
+        "cover_image": "https://example.com/pride_prejudice.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 4,
+      "fields": {
+        "user": 2,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn_number": "9780743273565",
+        "cover_image": "https://example.com/great_gatsby.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 5,
+      "fields": {
+        "user": 1,
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "isbn_number": "9780553380163",
+        "cover_image": "https://example.com/brief_history.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 6,
+      "fields": {
+        "user": 3,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn_number": "9780316769174",
+        "cover_image": "https://example.com/catcher_rye.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 7,
+      "fields": {
+        "user": 3,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "isbn_number": "9780547928227",
+        "cover_image": "https://example.com/the_hobbit.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 8,
+      "fields": {
+        "user": 2,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "isbn_number": "9780060850524",
+        "cover_image": "https://example.com/brave_new_world.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 9,
+      "fields": {
+        "user": 1,
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "isbn_number": "9780307474278",
+        "cover_image": "https://example.com/da_vinci_code.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 10,
+      "fields": {
+        "user": 4,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "isbn_number": "9780062315007",
+        "cover_image": "https://example.com/the_alchemist.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 11,
+      "fields": {
+        "user": 4,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "isbn_number": "9781408855652",
+        "cover_image": "https://example.com/harry_potter.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 12,
+      "fields": {
+        "user": 3,
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "isbn_number": "9780439023528",
+        "cover_image": "https://example.com/hunger_games.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 13,
+      "fields": {
+        "user": 2,
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "isbn_number": "9780307454546",
+        "cover_image": "https://example.com/dragon_tattoo.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 14,
+      "fields": {
+        "user": 1,
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "isbn_number": "9780345391803",
+        "cover_image": "https://example.com/hitchhikers_guide.jpg"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 15,
+      "fields": {
+        "user": 4,
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "isbn_number": "9781594631931",
+        "cover_image": "https://example.com/kite_runner.jpg"
+      }
+    }
+  ]
