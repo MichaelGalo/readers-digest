@@ -19,7 +19,7 @@ class Book(models.Model):
 
 
 # for categories
-# The first argument is the name of the table that is the other side of the many-to-many relationship - Category.
+# The first argument is the name of the table that is the other side of the many-to-many relationship - Category. Django will just find this model by name.
 
 # The second argument tells Django which model will store those relationships - BookCategory.
 
