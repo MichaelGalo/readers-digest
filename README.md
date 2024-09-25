@@ -13,6 +13,7 @@ Readers Digest API is the back-end for a Django-based web application that allow
 ## Features
 
 <details>
+    
 - **User Authentication**: Secure user authentication and authorization.
 - **Book Details**: Users can create, read, update and delete books they want to keep track of.
 - **Book Reviews**: Users can create, read, update, and delete reviews for books.
